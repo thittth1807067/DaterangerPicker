@@ -9,9 +9,8 @@ namespace demo1.Controllers
     public class DaterangePickerController : Controller
     {
         // GET: DaterangePicker
-        public ActionResult Index( DateTime? start)
-        {
-
+        public ActionResult Index() { 
+        
             return View();
         }
     }

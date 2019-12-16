@@ -69,7 +69,6 @@ C:\Users\ADMIN\source\repos\demo1\demo1\bin\System.Web.WebPages.Razor.xml
 C:\Users\ADMIN\source\repos\demo1\demo1\bin\Newtonsoft.Json.xml
 C:\Users\ADMIN\source\repos\demo1\demo1\bin\Antlr3.Runtime.pdb
 C:\Users\ADMIN\source\repos\demo1\demo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ADMIN\source\repos\demo1\demo1\obj\Debug\demo1.csprojAssemblyReference.cache
 C:\Users\ADMIN\source\repos\demo1\demo1\obj\Debug\demo1.csproj.CopyComplete
 C:\Users\ADMIN\source\repos\demo1\demo1\obj\Debug\demo1.dll
 C:\Users\ADMIN\source\repos\demo1\demo1\obj\Debug\demo1.pdb
